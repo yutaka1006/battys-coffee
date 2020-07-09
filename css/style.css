@@ -106,13 +106,16 @@ header {
 
 .staff-image {
   margin-bottom: 10px;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   display: block;
 }
+
 .staff-name {
   text-align: center;
 }
-}
-}
+
+.copyright {
+  color: #777;
+  text-align: center;
 }
